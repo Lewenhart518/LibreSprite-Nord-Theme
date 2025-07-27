@@ -24,7 +24,7 @@ A clean and minimal theme for LibreSprite, inspired by the Nord color palette. D
 git clone https://github.com/Lewenhart518/LibreSprite-Nord-Theme.git
 ```
 
-1. Open the folder: `LibreSprite-Nord-Theme/assets/skins/Nord-Theme`
+1. Open the folder: `LibreSprite-Nord-Theme/assets/skins/`
 2. Copy the folder `Nord-Theme` to your LibreSprite skins directory:
 
 **Windows**:  
