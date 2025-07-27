@@ -1,8 +1,15 @@
 # LibreSprite-Nord-Theme
 
 ![Main Menu With Extras](preview/main-menu.png)
+
+---
+
 ![New Document Ui](preview/new-document.png)
+
+---
+
 ![Document](preview/document.png)
+
 ---
 
 ## 🧊 LibreSprite Nord Theme
