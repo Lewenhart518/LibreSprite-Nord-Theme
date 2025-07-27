@@ -69,3 +69,12 @@ C:\Program Files\Libresprite\data\
 4. Restart LibreSprite — the logo and background should now reflect the Nord style
 
 ---
+
+#set the color palette Nord
+
+1. go to a new file or a file
+2. Select the 3 stripes in the color palette section.
+3. Put it where it says Load pallete
+4. Navigate to the repository folder and select Nord.gpl
+5. Click the 3 stripes again and select Save as default palette
+6. Enjoy!
