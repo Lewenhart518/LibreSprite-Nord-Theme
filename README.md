@@ -70,7 +70,7 @@ C:\Program Files\Libresprite\data\
 
 ---
 
-#set the color palette Nord
+## **set the color palette Nord**
 
 1. go to a new file or a file
 2. Select the 3 stripes in the color palette section.
