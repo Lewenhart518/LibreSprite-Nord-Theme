@@ -1,7 +1,8 @@
 # LibreSprite-Nord-Theme
 
-![Main UI With Extras](preview/main-ui.png)
-
+![Main Menu With Extras](preview/main-menu.png)
+![New Document Ui](preview/new-document.png)
+![Document](preview/document.png)
 ---
 
 ## 🧊 LibreSprite Nord Theme
