@@ -32,6 +32,11 @@ git clone https://github.com/Lewenhart518/LibreSprite-Nord-Theme.git
 C:\Users\<your-username>\AppData\Roaming\Libresprite\data\skins\
 ```
 
+or if you have the portable version:
+```
+C:\Users\<your-username>\Where\You\Have\The\Folder\Libresprite\data\skins\
+```
+
 **Linux**:  
 ```
 ~/.config/libresprite/data/skins/
@@ -55,6 +60,11 @@ git clone https://github.com/Lewenhart518/LibreSprite-Nord-Theme.git
 **Windows**:  
 ```
 C:\Program Files\Libresprite\data\
+```
+
+or if you have the portable version:
+```
+C:\Users\<your-username>\Where\You\Have\The\Folder\Libresprite\data\skins\
 ```
 
 **Linux**:  
