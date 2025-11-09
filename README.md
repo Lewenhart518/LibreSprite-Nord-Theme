@@ -8,7 +8,7 @@
 
 ---
 
-![Document](preview/documnt.png)
+![Document](preview/document.png)
 
 ---
 
